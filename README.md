@@ -30,6 +30,7 @@ GIS user since ~2006
 
 # What are we doing today?
   -GIS Overview
+  
   -QGIS Overview
   -QGIS Hands-On 
   -QGIS self help + self guided learning
