@@ -13,11 +13,11 @@ Intro to QGIS course offered in UVA Library's Research Data Services workshop se
 
 
 # Who Am I?
-Science & Engineering Librarian in Research Data Services
+-Science & Engineering Librarian in Research Data Services
   
   -https://data.library.virginia.edu/
  
-GIS user since ~2006
+-GIS user since ~2006
   
   -Started with ESRI/ArcGIS (9.x)
   
