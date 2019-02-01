@@ -66,9 +66,9 @@ GIS user since ~2006
   My Own Definition: GIS is a data visualization tool used for analyzing spatial relationships and patterns between objects.
   You can discover and communicate meaningful patterns in your data.
   
-  -The output is usually a map but the power lies in the data behind the image
+   -The output is usually a map but the power lies in the data behind the image
   
-  -GIS skills are a literacy. You won't be a master after today's workshop (unfortunately)
+   -GIS skills are a literacy. You won't be a master after today's workshop (unfortunately)
   
 
 # QGIS - A quick and dirty overview
@@ -83,31 +83,32 @@ GIS user since ~2006
   - Large user community internationally
   
   - QGIS homepage : https://qgis.org/en/site/
-    - If you haven't installed yet, go to this link and download
+    
+      - If you haven't installed yet, go to this link and download
     
 
 # Other Open Source or Free GIS tools
   - GRASS GIS
     
-    - popular for academics because it is easy to include code in publications
+      - popular for academics because it is easy to include code in publications
     
-    - QGIS started as a GUI interface to GRASS GIS
+      - QGIS started as a GUI interface to GRASS GIS
   
   - IDRISI
     
-    - for really high level raster image processing
+      - for really high level raster image processing
   
   - Smallworld by General Electric
     
-    - specifically tailored to utility companies
+      - specifically tailored to utility companies
   
   - Google Earth / Google Maps / Google MyMap
     
-    - if you just need to show where stuff is
+      - if you just need to show where stuff is
   
   - R
     
-    - for data scientists. Provides some publication quality graphing and mapping functionality
+      - for data scientists. Provides some publication quality graphing and mapping functionality
     
     
 # Why Use QGIS?
@@ -116,11 +117,11 @@ GIS user since ~2006
   
   - Linux and Mac Compatible
     
-    - ArcGIS is Windows/PC only
+      - ArcGIS is Windows/PC only
   
   - Because you are a fan of open source or a developer
     
-    - Customize it the way you like
+      - Customize it the way you like
   
   - Maybe you are an ESRI hater?
   
@@ -153,13 +154,40 @@ GIS user since ~2006
   
 # Self Help and More Learning (the most important part)
 
-  -Books, Blogs, etc.
-  
+  - Books, Blogs, etc.
     - https://www.qgistutorials.com/
     
-    - Learning QGIS 3.0 - Anita Graser
+    - Learning QGIS 3rd Edition - Anita Graser
     
-      -free through U
+        -free through UVA Library : https://search.lib.virginia.edu/catalog/u7237739
+      
+  - Big Online User Community
+  
+    - https://gis.stackexchange.com
+    
+    - https://gis.stackexchange.com/?tags=qgis (specifically QGIS tags)
+    
+    - QGIS support documentation
+    
+         -https://www.qgis.org/en/site/forusers/support.html
+         
+    - You can ask me for help
+    
+
+# Questions?
+
+  - epurpur@virginia.edu
+  
+        
+        
+        
+        
+
+
+  
+
+    
+    
 
 
 
