@@ -149,7 +149,18 @@ GIS user since ~2006
   
   - http://www.charlottesville.org/online-services/maps-and-gis-data
   
-  - Albemarle County digital elevation model (on github page)
+  - Albemarle County digital elevation model (albemarle_dem.dem in github repository)
+  
+# Self Help and More Learning (the most important part)
+
+  -Books, Blogs, etc.
+  
+    - https://www.qgistutorials.com/
+    
+    - Learning QGIS 3.0 - Anita Graser
+    
+      -free through U
+
 
 
 
