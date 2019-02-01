@@ -150,7 +150,7 @@ Intro to QGIS course offered in UVA Library's Research Data Services workshop se
   
   - http://www.charlottesville.org/online-services/maps-and-gis-data
   
-  - Albemarle County digital elevation model (albemarle_dem.dem in github repository)
+  - Download 'Intro to QGIS Data.zip' from this github repository
   
 # Self Help and More Learning (the most important part)
 
@@ -170,6 +170,10 @@ Intro to QGIS course offered in UVA Library's Research Data Services workshop se
     - QGIS support documentation
     
          -https://www.qgis.org/en/site/forusers/support.html
+         
+    - GeoNet (ESRI online community)
+    
+      -https://community.esri.com/
          
     - You can ask me for help
     
