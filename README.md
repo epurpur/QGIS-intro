@@ -159,7 +159,28 @@ Intro to QGIS course offered in UVA Library's Research Data Services workshop se
   
   - Basic navigation, various panels and dialog boxes
   
-  - 
+  - Identify Tool
+  
+  - Attribute Tables
+  
+  - Vector data types (Point, Line, Polygon)
+  
+  - Selections (click on some, draw a box, select by expression, select by location)
+  
+      - make new layer from selection
+  
+  - Geometry Tools (buffer, clip)
+  
+  - Symbology
+  
+  - Raster Data Types
+  
+       - Raster Calculator
+       
+  - Cartography (Print Composer)
+  
+  - Plugins
+  
   
 # Self Help and More Learning (the most important part)
 
