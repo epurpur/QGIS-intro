@@ -181,6 +181,8 @@ Intro to QGIS course offered in UVA Library's Research Data Services workshop se
   
   - Plugins
   
+  - Coordinate Systems
+  
   
 # Self Help and More Learning (the most important part)
 
