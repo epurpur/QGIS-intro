@@ -152,6 +152,15 @@ Intro to QGIS course offered in UVA Library's Research Data Services workshop se
   
   - Download 'Intro to QGIS Data.zip' from this github repository
   
+  
+# Hands On steps
+
+  - Load the data, including basemap
+  
+  - Basic navigation, various panels and dialog boxes
+  
+  - 
+  
 # Self Help and More Learning (the most important part)
 
   - Books, Blogs, etc.
