@@ -87,7 +87,7 @@ Intro to QGIS course offered in UVA Library's Research Data Services workshop se
       - If you haven't installed yet, go to this link and download
     
 
-# Other Open Source or Free GIS tools
+# Other Open Source or Free GIS and Geospatial tools
   - GRASS GIS
     
       - popular for academics because it is easy to include code in publications
@@ -105,6 +105,10 @@ Intro to QGIS course offered in UVA Library's Research Data Services workshop se
   - Google Earth / Google Maps / Google MyMap
     
       - if you just need to show where stuff is
+  
+  - Python
+   
+      -GeoPandas + other related packages. Provides mapping and spatial capabilities.
   
   - R
     
