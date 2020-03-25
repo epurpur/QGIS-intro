@@ -148,9 +148,7 @@ Intro to QGIS course offered in UVA Library's Research Data Services workshop se
   
   - We are going to use publicly available data from the City of Charlottesville, plus some of my own
   
-  - http://www.charlottesville.org/online-services/maps-and-gis-data
-  
-  - Download 'Intro to QGIS Data.zip' from this github repository
+  - Go Here for the data: https://virginia.box.com/s/3rsj94k7a9yymgf7429skdpml9c1pcvn
   
   
 # Hands On steps
